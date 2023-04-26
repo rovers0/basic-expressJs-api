@@ -10,3 +10,9 @@ following requirements:
 + List & search Stores/Products with pagination.
 + View detail of Stores/Products.
 + Create/Update/Delete of Stores/Products.
+
+start simple server in Node.js
+```
+ npm install
+ node server.js
+```
